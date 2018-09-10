@@ -25,3 +25,4 @@ spring:
     # 和git里的文件名对应
     name: clongulinconsumer
 
+active: test
