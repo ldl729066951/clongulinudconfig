@@ -20,9 +20,9 @@ eureka:
     service-url:
       default-zone: http://localhost:8761/eureka
 
-spring:
-  application:
+#spring:
+  #application:
     # 和git里的文件名对应
-    name: clongulinconsumer
+    #name: clongulinconsumer
 
 active: test
